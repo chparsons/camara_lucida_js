@@ -1,6 +1,10 @@
-
-//TODO make camara_lucida.js
-var cml = cml || {};
+/*!
+ * Camara Lucida www.camara-lucida.com.ar
+ * Christian Parsons www.chparsons.com.ar
+ *
+ * kinect websocket client
+ * to be used with the websocket server in openframeworks
+ */
 
 cml.KinectWS = function(opt)
 {
